@@ -1,6 +1,8 @@
 You can use this simple camera breathing script i created for your games
 
 credit me if you want idc i coded this in 2 mins lol
+star it if it helped 
+contributions are welcome
 
 # How To Use                           
   
